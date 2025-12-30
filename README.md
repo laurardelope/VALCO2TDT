@@ -39,7 +39,7 @@ For user interface:
 
 Import/execute file [**valco2tDT_db.sql**](src/valco2tDT_db.sql) in the mysql database.
 
-The user interface (UI) is managed through a dedicated Grafana dashboard. Import the dashborad file [**VALCO2T_DT _Management.json**](src/VALCO2T_DT _Management.json), located in the source folder, into the Grafana Server. Once imported, this interface  enables the operator to configure and execute new experiments within the DT environment.
+The user interface (UI) is managed through a dedicated Grafana dashboard. Import the dashborad file [**VALCO2T_DT _Management.json**](src/VALCO2T_DT_Management.json), located in the source folder, into the Grafana Server. Once imported, this interface  enables the operator to configure and execute new experiments within the DT environment.
 
 Execution configuration parameters of the DT can be checked in the [**config.json**](docs/config.md) file located in the config folder. It allows:
 * Configure data base access parameters.
