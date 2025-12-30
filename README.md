@@ -1,4 +1,5 @@
 # VALCO2T Digital Twin
+https://doi.org/10.5281/zenodo.18095843
 
 ## Table of contents
 1. General Info
