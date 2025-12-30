@@ -1,0 +1,33 @@
+{
+    "db_host":"localhost",
+    "db_user":"administrator",
+    "db_password":"telematica@VALCO2T",
+    "db_name":"valco2t",
+
+    "outputfileDT":"data/Output/outputDT.txt", 
+
+            
+    "n_iter":60,
+    "t_check": 2, 
+    "t_samples_PLC":10, 
+    "t_samples_DT":1, 
+
+            
+    "Mw_hcoo":45, 
+    "F":96485.33, 
+    "z_hcoo":2, 
+            
+    "Mw_h2":2,
+    "z_h2":2, 
+            
+    "R":0.08314, 
+            
+
+            
+           
+    "model_pH":"models/DNN_pH_model.keras",
+    "model_CH2":"models/DNN_CH2_model.keras",
+    "model_V":"models/DNN_V_model.keras",
+    "model_CCO2":"models/DNN_CCO2_model.keras"
+
+}
